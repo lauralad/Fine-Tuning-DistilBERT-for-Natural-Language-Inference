@@ -22,11 +22,13 @@ This project involves fine-tuning a DistilBERT model, a lighter version of BERT,
 * Model Training and Tuning: Detailed process documentation for training the model, adjusting parameters, and evaluating performance under different configurations.
 
 ### Results:
-![alt text](https://github.com/lauralad/Character-Level-Recurrent-Neural-Network-Language-Model/blob/main/A4-Q1.2.JPG?raw=true)
+Train and Validation Accuracy of DistilBERT:
+![alt text](https://github.com/lauralad/Fine-Tuning-DistilBERT-for-Natural-Language-Inference/blob/main/A4-Q1.2.JPG?raw=true)
 
-![alt text](https://github.com/lauralad/Character-Level-Recurrent-Neural-Network-Language-Model/blob/main/Q2.1-loss.JPG?raw=true)
+Comparison between different models:
+![alt text](https://github.com/lauralad/Fine-Tuning-DistilBERT-for-Natural-Language-Inference/blob/main/Q2.1-loss.JPG?raw=true)
 
-![alt text](https://github.com/lauralad/Character-Level-Recurrent-Neural-Network-Language-Model/blob/main/Q2.1-acc.JPG?raw=true)
+![alt text](https://github.com/lauralad/Fine-Tuning-DistilBERT-for-Natural-Language-Inference/blob/main/Q2.1-acc.JPG?raw=true)
 
 ## How to Use:
 * Clone the GitHub repository.
